@@ -2,7 +2,7 @@
 
 An academic binary-classification project that predicts whether an automobile insurance policy will generate a claim during its coverage period.
 
-**[Read the original coursework report](https://github.com/yassinedkk/LDAT2M/blob/main/portfolio/insurance-claim-prediction/report.pdf)** — the complete report submitted for the LDATS2350 Data Mining course.
+**[Read the original coursework report](report.pdf)** — the complete report submitted for the LDATS2350 Data Mining course.
 
 ## Project overview
 
